@@ -38,7 +38,7 @@ I developed an interactive Coffee Sales Dashboard using Advanced Excel technique
     <li>Automates calculations of sales sums, customer totals, and country contributions.</li>
 </ul>
 
-<h3>Tools & Techniques Used</h3>
+<h2>Tools & Techniques Used</h2>
 <ul>
   <li>PivotTables & PivotCharts for summarizing data.</li>
   <li>licers and Timelines for interactivity and filtering.</li>
@@ -48,7 +48,7 @@ I developed an interactive Coffee Sales Dashboard using Advanced Excel technique
 
 <p align="center">
 Dasshboard <br/>
-<img src="https://github.com/Pranav1419/Power-BI-Adventure-Works-project/blob/eb80d4fc42a3695530e1235c4ee591fef94710a0/Screenshot%202025-08-28%20103116.png" height="80%" width="80%" alt="Adventure Works Sales Analysis"/>
+<img src="https://github.com/Pranav1419/Coffee-Sales-Dashboard/blob/main/Screenshot%202025-08-09%20125822.png?raw=true" height="80%" width="80%" alt="Coffee Sales Analysis"/>
 <br />
 
 <!--
