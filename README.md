@@ -47,7 +47,7 @@ I developed an interactive Coffee Sales Dashboard using Advanced Excel technique
 </ul>
 
 <p align="center">
-Dasshboard <br/>
+Dashboard <br/>
 <img src="https://github.com/Pranav1419/Coffee-Sales-Dashboard/blob/main/Screenshot%202025-08-09%20125822.png?raw=true" height="80%" width="80%" alt="Coffee Sales Analysis"/>
 <br />
 
